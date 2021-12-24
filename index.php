@@ -1,6 +1,6 @@
 <?php
 
-$datposted = 10/20/19 10:20:35;
+$datposted = "10/20/19 10:20:35";
 
 function timediffrnce($dateposted) {
  
